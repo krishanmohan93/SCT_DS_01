@@ -36,7 +36,7 @@ These visualizations help identify patterns and trends within the data.
 
 ## Dataset
 
-The Titanic dataset is sourced from [Kaggle](https://www.kaggle.com).
+The dataset is sourced from [Kaggle](https://www.kaggle.com).
 
 ## Code Execution
 
