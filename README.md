@@ -11,7 +11,6 @@ Data preprocessing to handle categorical or continuous variables.
 Implementation of visualization techniques using Python libraries.
 Clear and concise representation of data through bar charts or histograms.
 
-
 # Usage
 The notebook processes the dataset to visualize the distribution of a selected variable. Examples include:
 
