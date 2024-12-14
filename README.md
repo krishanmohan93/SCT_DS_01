@@ -26,3 +26,20 @@ Bar Chart: Clearly depicts the distribution of categorical variables like gender
 Histogram: Displays the frequency distribution of continuous variables such as age.
 
 These visualizations help identify patterns and trends within the data.
+
+
+## Technologies Used
+
+- **Python**: Data processing and visualization.
+- **Libraries**: pandas, numpy, matplotlib, seaborn.
+
+## Dataset
+
+The Titanic dataset is sourced from [Kaggle](https://www.kaggle.com).
+
+## Code Execution
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/username/repo_name.git
