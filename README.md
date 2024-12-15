@@ -42,4 +42,4 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com).
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/repo_name.git
+git clone https://github.com/krishanmohan93/SCT_DS_01.git
